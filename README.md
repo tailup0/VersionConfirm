@@ -15,7 +15,17 @@ mysql --version
 nginx -V
 ```
 
-### php
+### PHP
 ```
 php -v
+```
+
+### cocoapods
+```
+pod --version
+```
+
+### Ruby
+```
+ruby --version
 ```
